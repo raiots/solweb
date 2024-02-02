@@ -1,31 +1,30 @@
-[data-termynal] {
-    border-radius: 4px;
-    text-align: left;
-    // background: $secondary-bg-color;
 
-    background: #292e39;
-    color: $byzantine
+// Syntax-highlighting:
+// @import "solarized"
+
+$global-font-family: "微软雅黑", Arial, sans-serif;
+
+h1, h2, h3 {
+  font-family: "微软雅黑","Roboto", sans-serif !important; // 举例
 }
 
-[data-ty] {
-    color: $primary-fg-color;
-}
-
-[data-ty="input"]:before,
-[data-ty-prompt]:before {
-    color: $bittersweet;
-}
-
-#termynal-about:after {
-    content: "";
-}
-
-@media (max-width: $mobile-breakpoint) {
-  .bg {
-    background-attachment: scroll;
-  }
-}
-
-.home-logo { 
-  animation: scale-in-center .8s cubic-bezier(.25, .46, .45, .94) both;
-}
+// // 定义一个测试横幅的样式
+// #test-banner {
+//   position: fixed;
+//   top: 0;
+//   left: 0;
+//   width: 100%;
+//   height: 50px;
+//   background-color: red;
+//   color: white;
+//   text-align: center;
+//   line-height: 50px;
+//   font-size: 24px;
+//   z-index: 1000;
+//   content: "测试横幅 - 您的更改已被应用";
+// }
+//
+// // 将测试横幅应用到 body 的开始部分
+// body::before {
+//   @extend #test-banner;
+// }
