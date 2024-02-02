@@ -1,35 +1,8 @@
 ---
-title: "Hugo Community Modules"
-date: "2021-11-22T23:53:44+01:00"
+title: "关于我们"
+date: "2024-01-18T22:37:01+08:00"
 draft: false
-description: "Hugo Community Mods"
+description: "智慧"
 ---
 
-Welcome! This page is all about user-friendly modules for [Hugo](https://gohugo.io/), a fast static site generator.
-The [hugo-mods organization](https://github.com/hugo-mods/) is where all the repos are!
-
-Below you can find all currently available modules which you can easily use to power up your site or theme.
-Fun fact: The entire page makes use of the modules itself, showing you how they look fully integrated!
-
-{{< term >}}
-lines:
-    - type: input
-      data: hugo mod init github.com/username/your-repo
-      wait: 500
-    - data: "go: creating new go.mod: module github.com/username/your-repo"
-    - type: input
-      data: $EDITOR config.yaml
-    - data: '[[module.imports]]'
-    - data: 'path = "github.com/hugo-mods/icons"'
-    - type: input
-      data: hugo mod get -u
-      wait: 500
-    - data: "hugo: downloading modules …"
-    #- type: progress
-    #  data: 100
-    #  wait: 200
-    - data: "✓ hugo: collected modules in 3372 ms"
-      wait: 0
-{{</ term >}}
-
-Made with {{< icon "heart" >}} by [kdevo](https://kdevo.github.io/).
+海洋科学与技术学院智慧海洋实验室（以下简称实验室）是由学院老师指导、本科生主导的创新创意实践平台。自2017年实验室成立以来，主要承担学院海洋工程装备、海洋工程仪器设备的智能化工作，经过多年的发展，实验室现已具备 完整的智能海洋装备与智能仪器设备的研发、测试能力。
