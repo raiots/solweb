@@ -1,3 +1,11 @@
+---
+title: "基于Mnist Fashion数据集的卷积神经网络"
+date: "2022-07-01T10:46:04+01:00"
+description: "构建卷积神经网络模型（CNN）对fashion-mnist数据集进行分类(10类)。"
+draft: false
+---
+
+
 > 本文首发于[牧雨博客](https://www.everains.com/note/ar339.html)
 > 
 > https://www.everains.com/note/ar339.html
