@@ -146,7 +146,7 @@ Menu:
       identifier: gallery
       url: "/#work"
       weight: 2
-    - name: "Blog"
+    - name: "博客"
       identifier: blog
       url: "/#blog"
       weight: 3
