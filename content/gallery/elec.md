@@ -2,14 +2,9 @@
 weight: 20
 date: "2019-05-17T22:25:16-07:00"
 title: "电子与控制"
-image: "kd.png"
+image: "eleclogo.png"
 alt: "kdevo"
-color: "#263238"
-buttons:
-  - i18n: view
-    url: "https://kdevo.github.io"
-  - i18n: code 
-    url: "https://github.com/kdevo/"
+color: "#d5dede"
 ---
 
-Author of Osprey Delight.
+为实验室提供无人机、无人船、水下机器人、滩涂履带车等面向海洋作业的运载设备控制系统开发，智能机械诊断系统开发以及工业物联网技术开发的体系化开发能力
