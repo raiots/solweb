@@ -35,7 +35,7 @@ draft: false
 
 #### 无人机结构设计
 
-![](http://sol.dlut.everains.com/wp-content/uploads/2022/08/image.png)
+![](D:\Documents\Programing\Goland\solweb\content\blog\dragon\index.mdimages/image.png)
 
 整机采用八旋翼驱动方式：首先因为其在结构上高度对称，可实现在空中不考虑所面对方向实现全方位移动；并且八轴会给整套系统提供更大的升力，可在进行ARV水质监测作业等负重作业环境中中实现高负载的要求；最后由于考虑到极地强风的特殊地理环境，为保证整套系统的的稳定性，因此在该项目中采用八旋翼无人机。
 
@@ -51,13 +51,13 @@ draft: false
 
 针对复杂冰区自动化进行水面着陆的特殊要求，团队使用OpenCV自主开发了一款能够自动识别冰区与海面的全自动视觉识别系统。利用冰面反射率较海面更高的特点，视觉识别系统灵敏度高，鲁棒性强，能成功完成自动海上着陆的引导要求。
 
-![](http://sol.dlut.everains.com/wp-content/uploads/2022/08/image-1.png)
+![](D:\Documents\Programing\Goland\solweb\content\blog\dragon\index.mdimages/image-1.png)
 
 ### 冰区水下航行器设计
 
 #### 水下航行器结构设计
 
-![](http://sol.dlut.everains.com/wp-content/uploads/2022/08/image-2.png)
+![](D:\Documents\Programing\Goland\solweb\content\blog\dragon\index.mdimages/image-2.png)
 
 整机采用六推进器实现六自由度全矢量布局，推进器方面选择强度高、耐腐蚀、耐海水的T60水下推进器，单个电机功率可达到300W。
 
@@ -68,4 +68,4 @@ draft: false
 在结构设计方面采用环绕式支架布局，并且在中段设置了可微调距离的套环，可实现自适应安装，保证整机的抗破坏性以及结构强度。并且环绕式支架结构可在后期需要安装抓手以及探测传感器时，在预留位置进行安装，其拓展性和开放性良好，并且紧凑式布局将整机的尺寸压缩到了300\*300\*200内，可通过狭小冰裂缝区  
 域进行特殊地形的观测任务等。
 
-![](http://sol.dlut.everains.com/wp-content/uploads/2022/08/image-3.png)
+![](D:\Documents\Programing\Goland\solweb\content\blog\dragon\index.mdimages/image-3.png)
