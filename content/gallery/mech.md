@@ -1,7 +1,7 @@
 ---
 weight: 10
 date: "2017-05-12T22:25:02-07:00"
-title: "Hugo"
+title: "机械与结构"
 image: "mechlogo.png"
 alt: "机械与结构"
 color: "#0a1922"
